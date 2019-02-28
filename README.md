@@ -5,11 +5,11 @@ A simple boilerplate for TypeScript with ExpressJS.
 ## Commands
 Don't forget to ```cd``` into the project directory before you run any of the commands.
 
-### Start the development server with hot reload: 
+### Start the development server with hot reload
 ```sh
     npm run dev
 ```
-### Build and start the production server: 
+### Build and start the production server
 ```sh
     npm run build
     npm start
