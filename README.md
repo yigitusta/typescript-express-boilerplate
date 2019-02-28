@@ -1,6 +1,6 @@
 # TypeScript Express Boilerplate
 
-Boilerplate for TypeScript with ExpressJS.
+A simple boilerplate for TypeScript with ExpressJS.
 
 ## Commands
 Don't forget to ```cd``` into the project directory before you run any of the commands.
