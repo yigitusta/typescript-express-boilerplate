@@ -1,0 +1,7 @@
+{
+  "name": "Express-TypeScript-Boilerplate",
+  "description": "Boilerplate project for TypeScript with ExpressJS.",
+  "repository": "https://github.com/yigitusta/typescript-express-boilerplate",
+  "logo": "https://github.com/remojansen/logo.ts/blob/master/ts.jpg?raw=true",
+  "keywords": ["typescript", "express", "node", "boilerplate"]
+}
