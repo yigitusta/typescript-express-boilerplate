@@ -3,19 +3,21 @@
 Boilerplate for TypeScript with ExpressJS.
 
 ## Commands
-#### Development server with hot reload: 
+Don't forget to ```cd``` into the project directory before you run any of the commands.
+
+### Start the development server with hot reload: 
 ```sh
     npm run dev
 ```
-#### Build and start the production server: 
+### Build and start the production server: 
 ```sh
     npm run build
     npm start
 ```
 
-## Deployment to Heroku
+### Deployment to Heroku
 ```sh
-    heroku apps:create hello-world
+    heroku apps:create {your-app-name}
     git push heroku master
 ```
 
@@ -24,7 +26,7 @@ Boilerplate for TypeScript with ExpressJS.
 
 ### Example deployment with Docker
 ```sh
-  docker build . -t hello-world
-  docker run -d -p 80:3000 hello-world
+  docker build . -t {your-app-name}
+  docker run -d -p 80:3000 {your-app-name}
 ```
 #### License: MIT
